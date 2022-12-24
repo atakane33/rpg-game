@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\rpg game\rpg game\obj\Debug\rpg game.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\rpg game\rpg game\obj\Debug\rpg game.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\rpg game\rpg game\bin\Debug\rpg game.exe.config
+C:\Users\hp\source\repos\rpg game\rpg game\bin\Debug\rpg game.exe
+C:\Users\hp\source\repos\rpg game\rpg game\bin\Debug\rpg game.pdb
+C:\Users\hp\source\repos\rpg game\rpg game\obj\Debug\rpg game.exe
+C:\Users\hp\source\repos\rpg game\rpg game\obj\Debug\rpg game.pdb
